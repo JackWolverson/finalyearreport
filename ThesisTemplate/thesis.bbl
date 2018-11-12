@@ -1,0 +1,258 @@
+\begin{thebibliography}{29}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{Available from: }
+\providecommand{\urldateprefix}{Accessed }
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Abu-Nimeh et~al.(2007)Abu-Nimeh, Nappa, Wang and
+  Nair}]{Abu-Nimeh:2007:CML:1299015.1299021}
+\bibinfo{author}{Abu-Nimeh, S.}, \bibinfo{author}{Nappa, D.},
+  \bibinfo{author}{Wang, X.} and \bibinfo{author}{Nair, S.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{A comparison of machine learning techniques for
+  phishing detection}.
+\newblock \emph{\bibinfo{booktitle}{Proceedings of the anti-phishing working
+  groups 2nd annual ecrime researchers summit}}. \bibinfo{address}{New York,
+  NY, USA}: \bibinfo{publisher}{ACM}, eCrime '07, pp.\bibinfo{pages}{60--69}.
+\newblock \urlprefix\url{http://doi.org/10.1145/1299015.1299021}.
+
+\bibitem[{Batista, Prati and Monard(2004)}]{Batista:2004:SBS:1007730.1007735}
+\bibinfo{author}{Batista, G.E.A.P.A.}, \bibinfo{author}{Prati, R.C.} and
+  \bibinfo{author}{Monard, M.C.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{A study of the behavior of several methods for
+  balancing machine learning training data}.
+\newblock \emph{\bibinfo{journal}{SIGKDD Explor. Newsl.}},
+  \bibinfo{volume}{6}(\bibinfo{number}{1}), pp.\bibinfo{pages}{20--29}.
+\newblock \urlprefix\url{http://doi.org/10.1145/1007730.1007735}.
+
+\bibitem[{Chawla et~al.(2002)Chawla, Bowyer, Hall and Kegelmeyer}]{SMOTE}
+\bibinfo{author}{Chawla, N.V.}, \bibinfo{author}{Bowyer, K.W.},
+  \bibinfo{author}{Hall, L.O.} and \bibinfo{author}{Kegelmeyer, W.P.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Smote: Synthetic minority over-sampling technique}.
+\newblock \emph{\bibinfo{journal}{Journal of Artificial Intelligence
+  Research}}, (\bibinfo{number}{16}).
+\newblock \urlprefix\url{http://doi.org/https://doi.org/10.1613/jair.953}.
+
+\bibitem[{Davoodi and Khanteymoori(2010)}]{Davoodi2010HorseRP}
+\bibinfo{author}{Davoodi, E.} and \bibinfo{author}{Khanteymoori, A.R.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Horse Racing Prediction Using Artificial Neural
+  Networks}}.
+\newblock
+  \urlprefix\url{https://www.semanticscholar.org/paper/Horse-Racing-Prediction-Using-Artificial-Neural-Ne-Davoodi-Khanteymoori/019119dff662e50678563bb50bccca13d433bab2}.
+
+\bibitem[{Fawcett(2006)}]{FAWCETT2006861}
+\bibinfo{author}{Fawcett, T.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{An introduction to roc analysis}.
+\newblock \emph{\bibinfo{journal}{Pattern Recognition Letters}},
+  \bibinfo{volume}{27}(\bibinfo{number}{8}), pp.\bibinfo{pages}{861 -- 874}.
+\newblock \bibinfo{note}{ROC Analysis in Pattern Recognition}.
+\newblock
+  \urlprefix\url{http://doi.org/https://doi.org/10.1016/j.patrec.2005.10.010}.
+
+\bibitem[{Fern{\'a}ndez-Villamor et~al.(2011)Fern{\'a}ndez-Villamor,
+  Blasco-Garc{\'i}a, Iglesias and Garijo}]{FernndezVillamor2011ASS}
+\bibinfo{author}{Fern{\'a}ndez-Villamor, J.I.},
+  \bibinfo{author}{Blasco-Garc{\'i}a, J.}, \bibinfo{author}{Iglesias, C.A.} and
+  \bibinfo{author}{Garijo, M.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{A semantic scraping model for web resources -
+  applying linked data to web page screen scraping}.
+\newblock \emph{\bibinfo{booktitle}{Icaart}}.
+
+\bibitem[{Ferrara et~al.(2014)Ferrara, Meo, Fiumara and
+  Baumgartner}]{FERRARA2014301}
+\bibinfo{author}{Ferrara, E.}, \bibinfo{author}{Meo, P.D.},
+  \bibinfo{author}{Fiumara, G.} and \bibinfo{author}{Baumgartner, R.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Web data extraction, applications and techniques: A
+  survey}.
+\newblock \emph{\bibinfo{journal}{Knowledge-Based Systems}},
+  \bibinfo{volume}{70}(\bibinfo{number}{Supplement C}), pp.\bibinfo{pages}{301
+  -- 323}.
+\newblock
+  \urlprefix\url{http://doi.org/https://doi.org/10.1016/j.knosys.2014.07.007}.
+
+\bibitem[{Garc{\'i}a et~al.(2008)Garc{\'i}a, Fern{\'a}ndez, Luengo and
+  Herrera}]{GarcÃa2008}
+\bibinfo{author}{Garc{\'i}a, S.}, \bibinfo{author}{Fern{\'a}ndez, A.},
+  \bibinfo{author}{Luengo, J.} and \bibinfo{author}{Herrera, F.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{A study of statistical techniques and performance
+  measures for genetics-based machine learning: accuracy and interpretability}.
+\newblock \emph{\bibinfo{journal}{Soft Computing}},
+  \bibinfo{volume}{13}(\bibinfo{number}{10}), p.\bibinfo{pages}{959}.
+\newblock \urlprefix\url{http://doi.org/10.1007/s00500-008-0392-y}.
+
+\bibitem[{Gurney(1997)}]{Gurney1997AnIT}
+\bibinfo{author}{Gurney, K.N.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{An introduction to neural networks}.
+
+\bibitem[{Hecht-Nielsen(1989)}]{118638}
+\bibinfo{author}{Hecht-Nielsen, R.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Theory of the backpropagation neural network}.
+\newblock \emph{\bibinfo{booktitle}{International 1989 joint conference on
+  neural networks}}. pp.\bibinfo{pages}{593--605 vol.1}.
+\newblock \urlprefix\url{http://doi.org/10.1109/IJCNN.1989.118638}.
+
+\bibitem[{Jain, Mao and Mohiuddin(1996)}]{485891}
+\bibinfo{author}{Jain, A.K.}, \bibinfo{author}{Mao, J.} and
+  \bibinfo{author}{Mohiuddin, K.M.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Artificial neural networks: a tutorial}.
+\newblock \emph{\bibinfo{journal}{Computer}},
+  \bibinfo{volume}{29}(\bibinfo{number}{3}), pp.\bibinfo{pages}{31--44}.
+\newblock \urlprefix\url{http://doi.org/10.1109/2.485891}.
+
+\bibitem[{Jayamalini and Ponnavaikko(2017)}]{8186676}
+\bibinfo{author}{Jayamalini, K.} and \bibinfo{author}{Ponnavaikko, M.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Research on web data mining concepts, techniques and
+  applications}.
+\newblock \emph{\bibinfo{booktitle}{2017 international conference on
+  algorithms, methodology, models and applications in emerging technologies
+  (icammaet)}}. pp.\bibinfo{pages}{1--5}.
+\newblock \urlprefix\url{http://doi.org/10.1109/ICAMMAET.2017.8186676}.
+
+\bibitem[{Kamanwar and Kale(2016)}]{7583910}
+\bibinfo{author}{Kamanwar, N.V.} and \bibinfo{author}{Kale, S.G.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Web data extraction techniques: A review}.
+\newblock \emph{\bibinfo{booktitle}{2016 world conference on futuristic trends
+  in research and innovation for social welfare (startup conclave)}}.
+  pp.\bibinfo{pages}{1--5}.
+\newblock \urlprefix\url{http://doi.org/10.1109/STARTUP.2016.7583910}.
+
+\bibitem[{{Kampakis} and {Thomas}(2015)}]{2015arXiv151105837K}
+\bibinfo{author}{{Kampakis}, S.} and \bibinfo{author}{{Thomas}, W.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Using Machine Learning to Predict the Outcome of
+  English County twenty over Cricket Matches}}.
+\newblock \emph{\bibinfo{journal}{ArXiv e-prints}}.
+\newblock \eprint{1511.05837}.
+
+\bibitem[{Kriesel(n.d)}]{kriesel}
+\bibinfo{author}{Kriesel, D.}, \bibinfo{year}{n.d}.
+\newblock \bibinfo{title}{A brief introduction to neural networks}.
+\newblock \urlprefix\url{http://www.dkriesel.com/en/science/neural_networks}.
+
+\bibitem[{Levitt(2014)}]{levitt_2014}
+\bibinfo{author}{Levitt, S.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{The thinking person's guide to betting the belmont
+  stakes - freakonomics}.
+\newblock
+  \urlprefix\url{http://freakonomics.com/2014/06/07/the-thinking-persons-guide-to-betting-the-belmont-stakes/}.
+
+\bibitem[{Miljkovi\'{c} et~al.(2010)Miljkovi\'{c}, Gaji\'{c}, Kova\'{c}evi\'{c}
+  and Konjovi\'{c}}]{5647440}
+\bibinfo{author}{Miljkovi\'{c}, D.}, \bibinfo{author}{Gaji\'{c}, L.},
+  \bibinfo{author}{Kova\'{c}evi\'{c}, A.} and \bibinfo{author}{Konjovi\'{c},
+  Z.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{The use of data mining for basketball matches
+  outcomes prediction}.
+\newblock \emph{\bibinfo{booktitle}{Ieee 8th international symposium on
+  intelligent systems and informatics}}. pp.\bibinfo{pages}{309--312}.
+\newblock \urlprefix\url{http://doi.org/10.1109/SISY.2010.5647440}.
+
+\bibitem[{Min et~al.(2008)Min, Kim, Choe, Eom and McKay}]{MIN2008551}
+\bibinfo{author}{Min, B.}, \bibinfo{author}{Kim, J.}, \bibinfo{author}{Choe,
+  C.}, \bibinfo{author}{Eom, H.} and \bibinfo{author}{McKay, R.B.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{A compound framework for sports results prediction: A
+  football case study}.
+\newblock \emph{\bibinfo{journal}{Knowledge-Based Systems}},
+  \bibinfo{volume}{21}(\bibinfo{number}{7}), pp.\bibinfo{pages}{551 -- 562}.
+\newblock
+  \urlprefix\url{http://doi.org/https://doi.org/10.1016/j.knosys.2008.03.016}.
+
+\bibitem[{of~Nebraska Medical~Center()}]{roccurve}
+\bibinfo{author}{Nebraska Medical~Center, U.~of}.
+\newblock \bibinfo{title}{Roc curve example}.
+\newblock \urlprefix\url{http://gim.unmc.edu/dxtests/roc3.htm}.
+
+\bibitem[{Pudaruth, Seesaha and Rambacussing(2013)}]{HRFL}
+\bibinfo{author}{Pudaruth, S.}, \bibinfo{author}{Seesaha, R.} and
+  \bibinfo{author}{Rambacussing, L.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Generating Horse Racing Tips at the Champs De March
+  Using Fuzzy Logic}}.
+\newblock
+  \urlprefix\url{https://www.researchgate.net/publication/274255770_Generating_Horse_Racing_Tips_at_the_Champs_De_March_Using_Fuzzy_Logic}.
+
+\bibitem[{Raschka(2014)}]{seb}
+\bibinfo{author}{Raschka, S.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Supervised learning}.
+\newblock \urlprefix\url{https://sebastianraschka.com}.
+
+\bibitem[{Samatin~Njikam and Zhao(2016)}]{samatin_njikam_zhao_2016}
+\bibinfo{author}{Samatin~Njikam, A.N.} and \bibinfo{author}{Zhao, H.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A novel activation function for multilayer
+  feed-forward neural networks}.
+\newblock \emph{\bibinfo{journal}{Applied Intelligence}},
+  \bibinfo{volume}{45}(\bibinfo{number}{1}), pp.\bibinfo{pages}{75--82}.
+\newblock \urlprefix\url{http://doi.org/10.1007/s10489-015-0744-0}.
+
+\bibitem[{Seising and Tabacchi(2013)}]{6608492}
+\bibinfo{author}{Seising, R.} and \bibinfo{author}{Tabacchi, M.E.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{A very brief history of soft computing: Fuzzy sets,
+  artificial neural networks and evolutionary computation}.
+\newblock \emph{\bibinfo{booktitle}{2013 joint ifsa world congress and nafips
+  annual meeting (ifsa/nafips)}}. pp.\bibinfo{pages}{739--744}.
+\newblock \urlprefix\url{http://doi.org/10.1109/IFSA-NAFIPS.2013.6608492}.
+
+\bibitem[{Specht(1991)}]{97934}
+\bibinfo{author}{Specht, D.F.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{A general regression neural network}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Neural Networks}},
+  \bibinfo{volume}{2}(\bibinfo{number}{6}), pp.\bibinfo{pages}{568--576}.
+\newblock \urlprefix\url{http://doi.org/10.1109/72.97934}.
+
+\bibitem[{Vales-Alonso et~al.(2015)Vales-Alonso, Chaves-Di\'{e}guez,
+  L\'{o}pez-Matencio, Alcaraz, Parrado-Garc\'{i}a and {n}o}]{7029116}
+\bibinfo{author}{Vales-Alonso, J.}, \bibinfo{author}{Chaves-Di\'{e}guez, D.},
+  \bibinfo{author}{L\'{o}pez-Matencio, P.}, \bibinfo{author}{Alcaraz, J.J.},
+  \bibinfo{author}{Parrado-Garc\'{i}a, F.J.} and \bibinfo{author}{{n}o,
+  F.J.G.C.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Saeta: A smart coaching assistant for professional
+  volleyball training}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Systems, Man, and
+  Cybernetics: Systems}}, \bibinfo{volume}{45}(\bibinfo{number}{8}),
+  pp.\bibinfo{pages}{1138--1150}.
+\newblock \urlprefix\url{http://doi.org/10.1109/TSMC.2015.2391258}.
+
+\bibitem[{van Wel and Royakkers(2004)}]{vanWel2004}
+\bibinfo{author}{Wel, L.~van} and \bibinfo{author}{Royakkers, L.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Ethical issues in web data mining}.
+\newblock \emph{\bibinfo{journal}{Ethics and Information Technology}},
+  \bibinfo{volume}{6}(\bibinfo{number}{2}), pp.\bibinfo{pages}{129--140}.
+\newblock \urlprefix\url{http://doi.org/10.1023/B:ETIN.0000047476.05912.3d}.
+
+\bibitem[{Williams and Li(2008)}]{HorseJamacia}
+\bibinfo{author}{Williams, J.} and \bibinfo{author}{Li, Y.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{A case study using neural networks algorithms: horse
+  racing predictions in Jamaica}}.
+\newblock \urlprefix\url{https://eprints.usq.edu.au/4300/}.
+
+\bibitem[{Willmott and Matsuura(2005)}]{10.2307/24869236}
+\bibinfo{author}{Willmott, C.J.} and \bibinfo{author}{Matsuura, K.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Advantages of the mean absolute error (mae) over the
+  root mean square error (rmse) in assessing average model performance}.
+\newblock \emph{\bibinfo{journal}{Climate Research}},
+  \bibinfo{volume}{30}(\bibinfo{number}{1}), pp.\bibinfo{pages}{79--82}.
+\newblock \urlprefix\url{http://www.jstor.org/stable/24869236}.
+
+\bibitem[{Wiseman(2016)}]{trap2493}
+\bibinfo{author}{Wiseman, O.}, \bibinfo{year}{2016}.
+\newblock \emph{\bibinfo{title}{Using machine learning to predict the winning
+  score of professional golf events on the pga tour}}.
+\newblock Master's thesis.
+\newblock \bibinfo{school}{Dublin, National College of Ireland}.
+\newblock \urlprefix\url{http://trap.ncirl.ie/2493/}.
+
+\end{thebibliography}

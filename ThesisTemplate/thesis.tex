@@ -1,0 +1,159 @@
+\documentclass{template}
+
+\usepackage{graphicx,parskip,appendix,float,geometry}
+%  http://tex.stackexchange.com/questions/13509/biblatex-in-a-nutshell-for-beginners
+%  http://tex.stackexchange.com/questions/108605/getting-a-harvard-style-list-of-references-using-biblatex
+\graphicspath{ {C:\Users\Jack\Desktop\bcuThesisTemplate-master (1)\ThesisTemplate} } 
+\usepackage{DejaVuSans}
+\usepackage{pdfpages}
+\geometry{
+ a4paper,
+ total={150mm,240mm},
+ left=35mm,
+ top=25mm,
+ }
+% BCU Harvard Referencing
+%  http://library.bcu.ac.uk/references.pdf
+
+% Citing   use \autocite, \parencite, or \textcite rather than \cite.
+%  http://tex.stackexchange.com/questions/102662/harvard-reference-using-biblatex
+%  https://www.sharelatex.com/blog/2013/07/31/getting-started-with-biblatex.html
+%  http://guides.library.yale.edu/bibtex/home
+%\usepackage[backend=bibtex, style=authoryear, firstinits=true, ]{biblatex}
+%\addbibresource{thesis.bib}
+
+%  Fontsizes  
+%  https://en.wikibooks.org/wiki/LaTeX/Fonts
+
+%\AtBeginBibliography{\footnotesize}
+% \DeclareFieldFormat => Remove Quotes from article Titles
+%  http://tex.stackexchange.com/questions/94089/remove-quotes-from-inbook-reference-title-with-biblatex
+%\DeclareFieldFormat[inbook,inproceedings,article,phdthesis,mastersthesis]{citetitle}{#1}
+%\DeclareFieldFormat[inbook,inproceedings,article,phdthesis,mastersthesis]{title}{#1}
+
+\usepackage{natbib}
+\newcommand*{\urlprefix}{Available from: }
+\newcommand*{\urldateprefix}{Accessed }
+\bibliographystyle{bath}
+\usepackage{tocloft}
+\newcommand{\listequationsname}{List of Equations}
+\newlistof{myequations}{equ}{\listequationsname}
+\newcommand{\myequations}[1]{%
+\addcontentsline{equ}{myequations}{\protect\numberline{\theequation}#1}\par}
+\setlength{\cftmyequationsnumwidth}{2.5em}% Width of equation number in List of Equations
+%  Documentation
+%  http://mirror.switch.ch/ftp/mirror/tex/macros/latex/contrib/biblatex/doc/biblatex.pdf
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1]{fontenc}
+%  http://tex.stackexchange.com/questions/86120/font-size-of-figure-caption-header
+\usepackage[font=small]{caption}
+\usepackage[ruled] {algorithm2e}
+\usepackage{url,amsmath,amssymb,fancybox,listings,pdfpages,caption,multicol,datetime,rotating, booktabs}
+%\usepackage[usenames,dvipsnames]{color}
+\usepackage[pagebackref=false,pdffitwindow=true]{hyperref}
+%NOTE: The hyperref usepackage should be the last \usepackage!!
+%NOTE: When pagebackref=true an error will appear at the end of compiling. press `q' to ignore
+%NOTE: Referencing Algorithms does not work if this usepackage is before the hyperref include.!!
+%NOTE: This is a comment, ignored when the document is compiled
+%NOTE: The following document configuration settings generally do not need to be modified
+%NOTE: More packages may need to be added to provide additional functionality
+
+%  http://tex.stackexchange.com/questions/7546/how-to-get-latex-symbol-in-document
+\newcommand{\latex}{\LaTeX\ }
+\newcommand{\authorName}{Jack Wolverson}
+\newcommand{\reportTitle}{Training an artificial intelligence usingvarious machine learning techniques topredict the outcome of a sporting event:Could a model be trained to effectivelypredict this outcome?}
+\newcommand{\degreeAward}{BSc in Computer Science } 
+
+\hypersetup{
+    pdftitle    = {\reportTitle},
+    pdfauthor   = {\authorName},
+    pdfsubject  = {Computer Science},
+    pdfkeywords = {Comma separated list of keywords},
+    colorlinks  = true, anchorcolor = blue, filecolor = blue, urlcolor = blue,
+    linkcolor   = blue,    %NOTE: change (blue) to (colIdentifier) to have links within the document in Black
+    citecolor   = blue,    %NOTE: change (blue) to (colIdentifier) to have citation links within the document in Black
+}
+
+\definecolor{colBackGrnd}{rgb}{1,1,0.8}
+\definecolor{colKeys}{rgb}{0,0,1}
+\definecolor{colIdentifier}{rgb}{0,0,0}
+\definecolor{colComments}{rgb}{0,.5,0}
+\definecolor{colString}{rgb}{0,0,1}
+\definecolor{colWhite}{rgb}{1,1,1}
+
+\newcommand{\MyHookSign}{\hbox{\ensuremath\hookleftarrow}}
+
+\newtheorem{Theorem}{Theorem}
+\newtheorem{Proposition}[Theorem]{Proposition}
+\newtheorem{Lemma}[Theorem]{Lemma}
+\newtheorem{Proof}[Theorem]{Proof}
+\newtheorem{Remark}[Theorem]{Remark}
+\newtheorem{Claim}[Theorem]{Claim}
+\newtheorem{Example}[Theorem]{Example}
+\newtheorem{Definition}[Theorem]{Definition}
+
+%NOTE: Setup for including program listings
+\lstset{%
+    float=H,
+    basicstyle=\ttfamily\footnotesize,
+    identifierstyle=\color{colIdentifier},
+    keywordstyle=\color{colIdentifier}, %
+    stringstyle=\color{colIdentifier},
+    commentstyle=\color{colIdentifier}, %
+    columns=flexible,
+    tabsize=2,
+    frame=single,
+    extendedchars=true, %
+    showspaces=false,
+    showstringspaces=false,
+    numbers=left, %
+    numberstyle=\footnotesize,
+    breaklines=true,
+    prebreak={\space\MyHookSign},
+    language=Java,
+    backgroundcolor=\color{colBackGrnd},
+    breakautoindent=true, %
+    captionpos=b%
+}
+
+\sloppy %NOTE: To ensure the Right Hand Margin is used (Especially for long URLS)
+%NOTE: END of the document configuration settings
+\begin{document}
+\DeclareGraphicsExtensions{.png,.gif,.pdf}
+%NOTE: When inserting Figures if the extension of the graphic file is not provided LaTeX will automatically search
+% for the extensions declared above, in the order declared.
+
+\title{\huge{Training an artificial intelligence using various machine learning techniques to predict the outcome of a sporting event: Could a model be trained to effectively predict this outcome?}}
+\author{Jack Wolverson}
+\degreetitle{\degreeAward} % Replace with appropriate degree
+\rpttype{BSc}    % Replace PhD / MSc  / BSc.
+\principaladviser{Emmett Cooper}
+
+\include{intro/abstract}
+\listofmyequations
+
+\include{intro/introduction}
+\include{usingLatex/usingLatex}
+\include{litreview/litreview}
+\include{background/background}
+\include{design/design}
+\include{impl/implementation}
+\include{eval/evaluation}
+\include{conclude/conclude}
+
+ %NOTE: reduced the size of the text for the bibliography
+%NOTE: set the style for the bibliography and display the references used within the document
+
+%  http://tex.stackexchange.com/questions/67153/bibliography-not-in-toc-when-using-biblatex-biber
+%\printbibliography[heading=bibintoc]
+\footnotesize
+\nocite{*}
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliography{thesis}
+\normalsize
+\appendix
+\include{appendix/appendix}
+\begin{figure}[h!]
+\includegraphics[scale=0.75]{scan.pdf}
+\end{figure}
+\end{document} %NOTE: END of document, nothing after this point

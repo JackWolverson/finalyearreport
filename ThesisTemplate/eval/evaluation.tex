@@ -1,0 +1,21 @@
+\chapter{Evaluation \& Testing}\label{ch:Evaluation}
+
+This chapter evaluates the overall project and provides results of tests carried out upon the most recent iteration of the research artefact software. The evaluation part of this chapter examines the solution provided in the form of the research artefact, as well as, the research itself and what conclusions can be drawn from it. Testing interrogates the research artefact to see if it actually works. The difference between the testing and the evaluation is testing will see if the model works and the evaluation will look at how accurate the model is.  
+
+\section{Evaluation}
+As seen throughout the implementation chapter a predictive model for horse racing was successfully implemented to predict the outcome of the race, in the case of winner and non winners. This section will evaluate each of the models produced throughout the implementation process in further detail then the conclusions of each iteration.
+
+\subsubsection{Iteration One}
+As previously discussed model one did not have a result that could be classed as statistically significant. Although the accuracy was not very high the model could be classed as successfully implemented.
+\subsubsection{Iteration Two}
+After changing the predicted labels on for this model the accuracy did improve which was the goal. But the model had a major issue with over fitting. This model was expected to have that issue due to the difference in the number of samples for the two labels (see figures \ref{fig:hawd} \& \ref{fig:hald} for the difference in the number of samples). This was however improved upon in model three.
+\subsubsection{Iteration Three}
+Model three reduced the issue of over fitting that model two was experiencing due to a successful implementation of SMOTE to over sample the minority class in the prediction labels. Even with the drop in the accuracy this model can definitely be classed as an improvement on the previous models.  
+\subsubsection{Iteration Four}
+The final model of the implementation of the research artefact improved upon the previous model by adding in another measure to try and reduce over fitting. K-fold cross validation was the technique implemented to improve the model. The accuracy did improve upon the previous model, but the accuracy for the prediction of the winner label did was worse than the previous model. But because a cross validation technique was used during the training aspect of building this model the possibility of the model being either over fitted or under fitted to the data is reduced meaning that even though the accuracy is not as good as the previous model iteration, the prediction is more likely to be an accurate one compared to the previous iteration. 
+
+
+\section{Testing}
+This section will provide the results of the testing of the final iteration of the implemented research artefact software. Unit testing will be used to test the research artefact software. Unit testing is used to test all the individual functions of the research artefact software. To see the tests and the results of the unit testing see Appendix \ref{ch:appendixA}, Table \ref{tab:sidewaysTable}.
+\section{Conclusions}
+The evaluation stage only mentioned some of the basic analysis of the models, further analysis of comparisons of the label true positives and false negatives for each iteration of the research artefact implementations could take place, as well as a further in depth look at visualising the results for a better comparison and analysis.Other evaluation techniques could be used on the final iteration of the model, these include the Mean Absolute Error and the  Root Mean Square Error to help evaluate the final iteration further.

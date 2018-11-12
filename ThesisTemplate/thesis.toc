@@ -1,0 +1,62 @@
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{Declaration}{iv}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Aim}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Product}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5}Rationale}{2}{section.1.5}
+\contentsline {section}{\numberline {1.6}Chapter List}{3}{section.1.6}
+\contentsline {chapter}{\numberline {2}Literature Review}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Algorithm Comparison}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Data Collection}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Evaluation Metrics}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Conclusion}{9}{section.2.4}
+\contentsline {chapter}{\numberline {3}Background Research}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Algorithm}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}Neural Network Learning Process}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Conclusions}{11}{section.3.3}
+\contentsline {chapter}{\numberline {4}Design}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Methodology of the Research Artefact}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Requirements of the Research Artefact}{13}{section.4.2}
+\contentsline {section}{\numberline {4.3}Dataset Design}{13}{section.4.3}
+\contentsline {section}{\numberline {4.4}Model Design Approach}{13}{section.4.4}
+\contentsline {section}{\numberline {4.5}Conclusions}{14}{section.4.5}
+\contentsline {chapter}{\numberline {5}Dataset}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dataset Origin}{15}{section.5.1}
+\contentsline {section}{\numberline {5.2}Data Exploration}{15}{section.5.2}
+\contentsline {section}{\numberline {5.3}Conclusions}{18}{section.5.3}
+\contentsline {chapter}{\numberline {6}Implementation}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Development Tools}{19}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Hardware}{19}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Software}{19}{subsection.6.1.2}
+\contentsline {subsubsection}{Data Preprocessing Libraries}{20}{section*.15}
+\contentsline {subsubsection}{Model Building Libraries}{20}{section*.16}
+\contentsline {subsubsection}{Evaluation and Testing Libraries}{20}{section*.17}
+\contentsline {section}{\numberline {6.2}Data Preprocessing}{21}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Loading the Dataset}{21}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Handling Missing Data}{21}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Building the Model}{21}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Iteration One}{22}{subsection.6.3.1}
+\contentsline {subsubsection}{Iteration One Conclusion}{22}{section*.19}
+\contentsline {subsection}{\numberline {6.3.2}Iteration Two}{23}{subsection.6.3.2}
+\contentsline {subsubsection}{Iteration Two Conclusion}{23}{section*.21}
+\contentsline {subsection}{\numberline {6.3.3}Iteration Three}{24}{subsection.6.3.3}
+\contentsline {subsubsection}{Iteration Three Conclusion}{24}{section*.23}
+\contentsline {subsection}{\numberline {6.3.4}Iteration Four}{25}{subsection.6.3.4}
+\contentsline {subsubsection}{Iteration Four Conclusions}{26}{section*.25}
+\contentsline {section}{\numberline {6.4}Conclusions}{26}{section.6.4}
+\contentsline {chapter}{\numberline {7}Evaluation \& Testing}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}Evaluation}{27}{section.7.1}
+\contentsline {subsubsection}{Iteration One}{27}{section*.26}
+\contentsline {subsubsection}{Iteration Two}{28}{section*.27}
+\contentsline {subsubsection}{Iteration Three}{28}{section*.28}
+\contentsline {subsubsection}{Iteration Four}{28}{section*.29}
+\contentsline {section}{\numberline {7.2}Testing}{28}{section.7.2}
+\contentsline {section}{\numberline {7.3}Conclusions}{29}{section.7.3}
+\contentsline {chapter}{\numberline {8}Conclusion}{30}{chapter.8}
+\contentsline {section}{\numberline {8.1}Conclusions}{30}{section.8.1}
+\contentsline {section}{\numberline {8.2}Future Work}{31}{section.8.2}
+\contentsline {chapter}{Bibliography}{32}{section.8.2}
+\contentsline {chapter}{\numberline {A}Unit Test Table}{35}{appendix.A}

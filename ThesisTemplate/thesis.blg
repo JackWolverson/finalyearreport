@@ -1,0 +1,31 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: bath.bst
+A level-1 auxiliary file: intro/abstract.aux
+A level-1 auxiliary file: intro/introduction.aux
+A level-1 auxiliary file: usingLatex/usingLatex.aux
+A level-1 auxiliary file: litreview/litreview.aux
+A level-1 auxiliary file: background/background.aux
+A level-1 auxiliary file: design/design.aux
+A level-1 auxiliary file: impl/implementation.aux
+A level-1 auxiliary file: eval/evaluation.aux
+A level-1 auxiliary file: conclude/conclude.aux
+A level-1 auxiliary file: appendix/appendix.aux
+Database file #1: thesis.bib
+Warning--empty venue in Abu-Nimeh:2007:CML:1299015.1299021
+Warning--there's a number but no volume in SMOTE
+Warning--empty booktitle in Davoodi2010HorseRP
+Warning--empty venue in Davoodi2010HorseRP
+Warning--empty venue in FernndezVillamor2011ASS
+Warning--empty booktitle in Gurney1997AnIT
+Warning--empty venue in Gurney1997AnIT
+Warning--empty venue in 118638
+Warning--empty venue in 8186676
+Warning--empty venue in 7583910
+Warning--empty venue in 5647440
+Warning--empty year in roccurve
+Warning--empty booktitle in HRFL
+Warning--empty venue in HRFL
+Warning--empty venue in 6608492
+Warning--empty booktitle in HorseJamacia
+Warning--empty venue in HorseJamacia
+(There were 17 warnings)

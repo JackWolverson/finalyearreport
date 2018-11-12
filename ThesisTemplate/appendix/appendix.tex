@@ -1,0 +1,23 @@
+\chapter{Unit Test Table}\label{ch:appendixA}
+\begin{sidewaystable}[h!]
+\begin{center}
+       \begin{tabular}{|p{1cm}||p{3cm}|p{10cm}|p{5cm}|p{3cm}|p{2cm}| }
+   \toprule
+   \textbf{Test} & \textbf{Name}  & \textbf{Description}  & \textbf{Expected Outcome}  & \textbf{Actual Outcome}  & \textbf{Result} \cr
+   \midrule
+   1 &  open data set  & test that the pandas read csv opens the data set correctly and returns it as the correct type & The data set is opened and a data frame is returned & as expected & pass  \cr
+   2 &  label encoder & test that all labels are encoded and no stings are left & no strings are left all labels are encoded & as expected & pass  \cr
+   3 & data split & see if train test split correctly splits the data set & the training set has 90 \% of the data in  & as expected & pass  \cr
+   4 & Normalise & Normalising the data is correctly executed & all data is normalised & as expected & pass  \cr
+   5 & training the model  & the model is trained and no errors occur during this phase  & a trained model & as expected  & pass  \cr
+   6 & test the prediction & the model give a valid prediction after being given values that should give a 100\% accuracy & the prediction is 100\% accurate & as expected & pass
+   \bottomrule
+   \end{tabular}
+\caption[Unit testing table]{
+	A table showing the unit tests and test results.}
+\label{tab:sidewaysTable}
+\end{center}
+\end{sidewaystable}
+
+%\includepdf[pages={1}]{scan.pdf}
+
